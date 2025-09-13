@@ -1,0 +1,11 @@
+.idea
+.vscode
+__pycache__/
+*.pyc
+.env
+Clean-First.csv
+Clean-Second.csv
+Clean-Third.csv
+Clean-Fourth.csv
+Clean-Fifth.csv
+Clean-Sixth.csv
